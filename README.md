@@ -50,6 +50,7 @@ virtualenv -p python3.7 env
 Professor, existe uma instância do jupiter radando em meu aws, peço acessa-la pelo seguinte link:
 
 https://ec2-54-207-44-6.sa-east-1.compute.amazonaws.com:8888/tree?
+
 O acesso é o mesmo de sempre...
 
 
