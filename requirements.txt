@@ -1,0 +1,7 @@
+pymongo
+paho-mqtt
+jupyter
+pandas
+matplotlib
+xlwt
+xlrd
