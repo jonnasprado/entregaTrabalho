@@ -41,4 +41,14 @@ virtualenv -p python3.7 env
 3. Consumir o resultado do Mongo e salvar em CSV/XLS.
 4. Fazer a analise dos dados do CSV em um notebook (media, minuto com a maior media, dv)
 5. Subir o codigo, arquivos do docker, notebook e csv no github.
-6. Enviar o link para lucio.oliveira@inatel.br ate o dia 5/11.
+6. Enviar o link para lucio.oliveira@inatel.br ate o dia 5/11
+
+
+ATENÇÃO:
+Professor, existe uma instância do jupiter radando em meu aws no seguinte endereço, peço acessa-la pelo seguinte link:
+
+https://ec2-18-228-116-164.sa-east-1.compute.amazonaws.com:8888/tree/notebooks
+
+Desde já, agradeço!
+
+.
