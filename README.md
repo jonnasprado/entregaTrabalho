@@ -45,7 +45,7 @@ virtualenv -p python3.7 env
 
 
 ATENÇÃO:
-Professor, existe uma instância do jupiter radando em meu aws no seguinte endereço, peço acessa-la pelo seguinte link:
+Professor, existe uma instância do jupiter radando em meu aws, peço acessa-la pelo seguinte link:
 
 https://ec2-18-228-116-164.sa-east-1.compute.amazonaws.com:8888/tree/notebooks
 
