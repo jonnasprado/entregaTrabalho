@@ -1,5 +1,5 @@
 # Código de exemplo para estudo de caso de IoT + Bigdata
-#Leia útimo aviso!
+# Leia útimo aviso!
 
 
 ## Links úteis
