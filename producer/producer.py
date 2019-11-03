@@ -10,7 +10,7 @@ mqtt_client = mqtt.Client()
 mqtt_client.connect('18.228.241.247', 1883, 60)
 
 while True:
-    temperatura = random.uniform(17,30)
+    temperatura = random.uniform(15,30)
     print(temperatura)
     msg = {
         'temperatura': temperatura
