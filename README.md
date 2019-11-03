@@ -49,7 +49,7 @@ virtualenv -p python3.7 env
 ## ATENÇÃO:
 Professor, existe uma instância do jupiter radando em meu aws, peço acessa-la pelo seguinte link:
 
-https://ec2-18-228-241-247.sa-east-1.compute.amazonaws.com:8888/
+https://ec2-18-229-146-168.sa-east-1.compute.amazonaws.com:8888/
 
 O acesso é o mesmo de sempre...
 
