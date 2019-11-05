@@ -7,7 +7,7 @@ import json
 
 print('Conectando ao mqtt broker...')
 mqtt_client = mqtt.Client()
-mqtt_client.connect('18.228.241.247', 1883, 60)
+mqtt_client.connect('18.229.146.168', 1883, 60)
 
 while True:
     temperatura = random.uniform(15,30)
